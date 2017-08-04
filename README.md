@@ -1,3 +1,3 @@
 # MY SECOND PROJECT
 -------------------
-This repo is demonstrates my second project.
+This repo demonstrates my second project.
